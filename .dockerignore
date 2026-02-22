@@ -1,8 +1,0 @@
-.env
-.env.*
-*.log
-logs/
-.git
-.gitignore
-README.md
-.dockerignore
