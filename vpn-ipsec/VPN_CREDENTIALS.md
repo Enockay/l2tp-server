@@ -16,22 +16,27 @@ AwSc2p9xUgyxtvD2YS5t
 ### Router 1 - Kitui
 - **Username:** `kituiMikrotik`
 - **Password:** `Enockay23`
+- **Static IP:** `192.168.42.2`
 
 ### Router 2 - Chuka
 - **Username:** `ChukaMikrotik`
 - **Password:** `Enockay23`
+- **Static IP:** `192.168.42.3`
 
 ### Router 3 - Pius
 - **Username:** `piusMikrotik`
 - **Password:** `Enockay23`
+- **Static IP:** `192.168.42.4`
 
 ### Router 4 - Enock
 - **Username:** `enockMikrotik`
 - **Password:** `Enockay23`
+- **Static IP:** `192.168.42.5`
 
 ### Billing Server
 - **Username:** `billingServer`
 - **Password:** `Enockay23`
+- **Static IP:** `192.168.42.6`
 
 ---
 
